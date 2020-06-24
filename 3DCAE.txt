@@ -1,0 +1,2 @@
+The 3DCAE part can be referred to the link:
+https://github.com/MeiShaohui/3DCAE-hyperspectral-classification.
